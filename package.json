@@ -1,0 +1,10 @@
+{
+  "name": "language-lexware",
+  "version": "1.0.0",
+  "description": "Syntax highlighting for Lexware",
+  "repository": "https://github.com/alaskanlc/language-lexware",
+  "license": "UNLICENSE",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+# https://gist.github.com/DamnedScholar/622926bcd222eb1ddc483d12103fd315
+
+scopeName: 'source.lexware'
+name: 'Lexware'
+fileTypes: [
+  'lex'
+]
+patterns: [
+  {
+    match: '^\\.rt.*$'
+    name: 'entity.other.lexware'
+  }
+]
