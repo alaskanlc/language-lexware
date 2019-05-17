@@ -1,6 +1,6 @@
 {
   "name": "language-lexware",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Syntax highlighting and keymap for Lexware",
   "repository": "https://github.com/alaskanlc/language-lexware",
   "license": "UNLICENSE",
