@@ -1,27 +1,13 @@
-.rt This is new
-gl What is this?
-this is bl
 
-bl
+.rt  'an
+tag den
+top N-bio, N-geo
 
-bl
-bl
+..n -'onh
+gl  animal *den
+ex geh 'an
+eng rabbit den
 
-/A
-ł
-
-
-lb
-ł
-
-
-ł
-
-Ł
-
-
-lB
-łłł
-ł
-Ł
-ł
+...n   ch'a'an
+gl   *cave
+lit rock den

@@ -2,12 +2,27 @@
 
 scopeName: 'source.lexware'
 name: 'Lexware'
-fileTypes: [
-  'lex'
-]
+fileTypes: [ 'lex' ]
 patterns: [
   {
-    match: '^\\.rt.*$'
-    name: 'entity.other.lexware'
+    match: '^\\.[^.].*$'
+    name: 'lev1'
+  },
+  {
+    match: '^\\.\\.[^.].*$'
+    name: 'lev2'
   }
+  {
+    match: '^\\.\\.\\.[^.].*$'
+    name: 'lev3'
+  }
+  {
+      match: '^(tag|gl)\\ .*$'
+      name: 'tag'
+  }
+  {
+      match: '^(ex|eng)\\ '
+      name: 'exeng'
+  }
+
 ]
