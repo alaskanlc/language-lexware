@@ -4,6 +4,7 @@
   "description": "Syntax highlighting for Lexware",
   "repository": "https://github.com/alaskanlc/language-lexware",
   "license": "UNLICENSE",
+  "main": "./lib/lexware",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
