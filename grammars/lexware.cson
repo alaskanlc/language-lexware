@@ -2,7 +2,11 @@
 
 scopeName: 'source.lexware'
 name: 'Lexware'
-fileTypes: [ 'lex' ]
+fileTypes: [
+  'lex'
+  'lexware'
+  'lw'
+  ]
 patterns: [
   {
     match: '^\\.[^.].*$'
